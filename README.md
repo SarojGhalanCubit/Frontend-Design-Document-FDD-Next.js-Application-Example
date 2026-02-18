@@ -1,0 +1,1 @@
+# Frontend-Design-Document-FDD-Next.js-Application-Example
